@@ -22,5 +22,10 @@ public class DataDecleration {
         System.out.println(distance2);
 
         System.out.println(initial);
+
+        age = 50;
+        System.out.println("new age's value:" + age);
+
+
     }
 }
