@@ -11,7 +11,7 @@ public class Comments {
      */
 
     /**
-     * This is anothert comment with multi lines
+     * This is another comment with multi lines
      * This is second line
      * Comment 3rd line
      *
